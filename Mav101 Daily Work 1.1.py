@@ -1,0 +1,16 @@
+print("Please input a number")
+x = int(input())
+print("Please Input another Value")
+y = int(input())
+
+sum = str(x + y)
+difference = str(x - y)
+product = str(x*y)
+Quotient = str(x/y)
+Remainder = str(x%y)
+
+print("The sum is " + sum)
+print("The difference is " + difference)
+print("The product is " + product)
+print("The quotient is " + Quotient)
+print("The remainder is " + Remainder)
